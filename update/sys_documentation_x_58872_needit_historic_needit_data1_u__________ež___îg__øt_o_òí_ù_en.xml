@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u__________ež___îg__øt_o_òí_ù" label="‹&#8;&#0;&#0;&#0;&#0;&#0;&#0;&#3;eŽ;&#14;À0&#8;C÷&#30;Ã3B&#16;&gt;mÖÞ¦Rî?7H•:°¾‡m&#0;r&#15;#&#21;ã&#8;Â&#8;&#16;îg-&#28;øT$o¡ÒÍ&#20;Ù" language="en" table="x_58872_needit_historic_needit_data1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u__________ež___îg__øt_o_òí_ù</element>
+            <help/>
+            <hint/>
+            <label>‹eŽ;À0C÷Ã3B&gt;mÖÞ¦Rî?7H•:°¾‡mr#ãÂîg-øT$o¡ÒÍÙ</label>
+            <language>en</language>
+            <name>x_58872_needit_historic_needit_data1</name>
+            <plural>‹eŽ;À0C÷Ã3B&gt;mÖÞ¦Rî?7H•:°¾‡mr#ãÂîg-øT$o¡ÒÍÙs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 06:48:39</sys_created_on>
+            <sys_id>9b6b90ebdb81330057f385184b9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>‹eŽ;À0C÷Ã3B&gt;mÖÞ¦Rî?7H•:°¾‡mr#ãÂîg-øT$o¡ÒÍÙ</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_historic_needit_data1_u__________ež___îg__øt_o_òí_ù_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-02 06:48:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

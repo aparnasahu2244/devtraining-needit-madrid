@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Historic NeedIt Data" max_length="40" name="x_58872_needit_historic_needit_data" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="oÜŠOi&lt;3" max_length="40" name="u_oüšoi_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ÖðˆªiXÕYæ&#14;ôáÓÙvÕÐnêÕ«OH½ôŸ¿þ&#28;X&#1;÷" max_length="40" name="u_öðˆªixõyæ_ôá_êõ_oh_ôÿ_þ_x__" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="‹&#8;&#0;&#0;&#0;&#0;&#0;&#0;&#3;eŽ;&#14;À0&#8;C÷&#30;Ã3B&#16;&gt;mÖÞ¦Rî?7H•:°¾‡m&#0;r&#15;#&#21;ã&#8;Â&#8;&#16;îg-&#28;øT$o¡ÒÍ&#20;Ù" max_length="40" name="u__________ež___îg__øt_o_òí_ù" type="string"/>
+    </element>
+</database>
